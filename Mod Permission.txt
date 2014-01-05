@@ -35,7 +35,7 @@ http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
 Extra Utilities
 http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v102/
 
-Extra Bees
+Extra Bees/Trees (both in the same mod)
 http://dl.dropboxusercontent.com/u/52207235/Minecraft/Website/bees/modpacks.html
 
 Factorization
@@ -113,3 +113,6 @@ http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactor
 
 PowerCrystalsCore
 http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated/
+
+Better Storage
+http://www.minecraftforum.net/topic/1548203-164-betterstorage-073-wip/
