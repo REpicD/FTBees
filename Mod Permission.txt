@@ -116,3 +116,6 @@ http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactor
 
 Better Storage
 http://www.minecraftforum.net/topic/1548203-164-betterstorage-073-wip/
+
+Smart Moving
+http://www.minecraftforum.net/topic/361430-164smp-smart-moving/
