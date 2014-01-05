@@ -1,3 +1,115 @@
 Jammy's Furniture Mod
 http://www.minecraftforum.net/topic/1098808-v45-162-forge-smp-jammy-furniture-mod/
 http://www.jammy780.co.uk/jfm
+
+Railcraft
+http://railcraft.info/wiki/info:license
+
+Hamsteriffic
+http://www.minecraftforum.net/topic/2101989-162164hamsterrific-v20-pet-hamsters-for-your-minecraft-world-now-with-hamster-balls/
+
+BiblioCraft
+http://www.bibliocraftmod.com/?page_id=57#modpacks
+
+Applied Energistics
+http://ae-mod.info/Frequently-Asked-Questions/
+
+Buildcraft
+http://www.mod-buildcraft.com/
+
+CodeChickenCore
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+
+COFHCore
+http://www.teamcofh.com/index.php?page=license
+
+Compact Solars
+http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/
+
+Computer Craft
+http://www.minecraftforum.net/topic/892282-164-computercraft/
+
+EnderStorage
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+
+Extra Utilities
+http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v102/
+
+Extra Bees
+http://dl.dropboxusercontent.com/u/52207235/Minecraft/Website/bees/modpacks.html
+
+Factorization
+http://www.minecraftforum.net/topic/1351802-164-factorization-0823/
+
+Forestry
+http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads
+
+iChunUtil
+http://ichun.us/support/mod-packs/
+
+IC? Dev Team
+http://www.industrial-craft.net/
+http://forum.industrial-craft.net/
+
+Inventory Tweaks
+http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-156-august-21/
+
+Iron Chest
+http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/
+
+Natura
+http://www.minecraftforum.net/topic/1753754-16xnatura/
+
+NEI Addons
+http://www.minecraftforum.net/topic/1803460-nei-addons-v194-updated-251213/
+
+NEI Plugins
+https://bitbucket.org/mistaqur/nei_plugins/wiki/Home
+
+Not Enough Items
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+
+OpenBlocks
+http://www.openblocks.info/
+
+OpenPeripheral
+http://www.openblocks.info/
+
+Ore Dictionary Converter
+http://www.minecraftforum.net/topic/1580364-162164forge-ore-dictionary-converter/
+
+Steve's Carts 2
+http://stevescarts2.wikispaces.com/
+
+Switches
+http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/
+
+Sync Mod
+http://ichun.us/support/mod-packs/
+
+ThermalExpansion
+http://www.teamcofh.com/index.php?page=license
+
+Tinkers Construct
+http://www.minecraftforum.net/topic/1659892-164tinkers-construct/
+
+Tinkers Mechworks
+http://www.minecraftforum.net/topic/1659892-164tinkers-construct/
+
+Wireless redstone/ChickenBonesExtras
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/
+
+EXTRABIOMESXL
+http://www.minecraftforum.net/topic/1090288-164-extrabiomesxl-3145/page__hl__extra%20biomes
+
+Thaumcraft 4
+http://www.minecraftforum.net/topic/2011841-thaumcraft-405b-updated-24112013/
+
+Thaumic Tinkerer
+http://www.minecraftforum.net/topic/1813058-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge-now-with-100-more-overpoweredness-20-58-80k-downloads/
+
+MineFactory Reloaded
+http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated/
+
+PowerCrystalsCore
+http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated/
