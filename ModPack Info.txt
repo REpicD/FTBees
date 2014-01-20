@@ -1,6 +1,0 @@
-Feed The Bees
-FTBees
-A private pack for Feed The Bees Servers
-1.6.4
-V0.1
-ihenderson
